@@ -73,4 +73,4 @@ NFT deposited on Polygon Mumbai
 
 ## Author
 
-Michael Alfred
+Nanbal Kundam
